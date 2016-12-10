@@ -23,7 +23,7 @@ In this Project, we are going to analyse the following parameters to justify for
 
 8. Gross Domestic product
 
-9. Healthcare Expenditure
+X 9. Healthcare Expenditure
 
 10. Internet Community
 
@@ -33,11 +33,11 @@ In this Project, we are going to analyse the following parameters to justify for
 
 13. Research and Development Costs
 
-14. Self Employment Rate
+X 14. Self Employment Rate
 
 15. Tourism 
 
-16. Urban population
+X 16. Urban population
 
 
 This Project gives insights to multiple parameter, reflects relationships of different related parameter to work on to develop further and grow more. Many interesting visualizations and interactions can be framed from the above list and can be taken in consideration to analyse. Work on other parameters
