@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <style>
+  /*<link rel="stylesheet" href="//rawgithub.com/Caged/d3-tip/master/examples/example-styles.css">*/
+    .axis path, .axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+    }
+
+    text {
+    font-family: sans-serif;
+    font-size: 10pt;
+    }
+    
+
+    .hidden {
+    display: none;
+    }
+   .d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+    }        
+    .d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+    }
+
+    .d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+    }
+
+}
+
+    #map {
+    display: inline-block;
+    }
+
+    #hist {
+    display: inline-block;
+    }
+
+    tr.highlight {
+    background: MistyRose;
+    }
+
+    .state {
+    fill: green;
+    .s1{ font-style: bold; }
+    .s2{ font-style: italic;}
+
+    .state.highlight {
+    fill: red;
+    stroke: red;
+    stroke-width: 4px;
+    }
+  </style>  
+</head>
+<body>
+  <div id="info"></div>
+
+
+  <div id="map"></div>
+ 
+  <div id="bar"></div>
+   <div id="hist"></div>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+  <script src="http://d3js.org/queue.v1.min.js"></script>
+  <script src="https://bost.ocks.org/mike/fisheye/fisheye.js"></script>
+  <script type="text/javascript" src="http://www.cis.umassd.edu/~dkoop/dsc530-2016sp/a4/a4-do-not-copy-or-change.js"></script>
+
+  <!-- Your code can either go in a separate file (e.g. a4.js) or in the script tag below -->
+  <script type="text/javascript" src="a4.js"></script>
+  <script type="text/javascript">
+
+  </script>
+</body>
+</html>
