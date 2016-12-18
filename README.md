@@ -5,7 +5,7 @@ DataSets Used: World Bank Datasets : http://databank.worldbank.org/data/reports.
 
 In this Project, we are going to analyse the following parameters to justify for status of country on the scale of development and also propose some useful conclusions to help community aware of things to work on to boost their country growth.
 <p><i>
-<br>
+
 Agriculture
 <br>
 Carbon Emission
