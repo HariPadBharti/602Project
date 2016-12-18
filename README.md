@@ -26,7 +26,7 @@ Internet Community
 
 Migrants Stock
 
-</p></i>
+</i></p>
 This Project gives insights to multiple parameter, reflects relationships of different related parameter to work on to develop further and grow more. Many interesting visualizations and interactions can be framed from the above list and can be taken in consideration to analyse. Work on other parameters
 
 Note: Project Completed on 12th December
