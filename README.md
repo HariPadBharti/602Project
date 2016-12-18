@@ -17,32 +17,22 @@ In this Project, we are going to analyse the following parameters to justify for
 
 5. Employment
 
-6. Foreign Direct investment
+6. Forest Cover
 
-7. Forest Cover
+7. Gross Domestic product
 
-8. Gross Domestic product
+8. Healthcare Expenditure
 
-X 9. Healthcare Expenditure
+9. Internet Community
 
-10. Internet Community
+10. Migrants Stock
 
-11. Migrants Stock
 
-12. Mortality Rate
-
-13. Research and Development Costs
-
-X 14. Self Employment Rate
-
-15. Tourism 
-
-X 16. Urban population
 
 
 This Project gives insights to multiple parameter, reflects relationships of different related parameter to work on to develop further and grow more. Many interesting visualizations and interactions can be framed from the above list and can be taken in consideration to analyse. Work on other parameters
 
-Note: Project Deadline 12th December
+Note: Project Completed on 12th December
 
 
 
