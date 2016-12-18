@@ -4,7 +4,7 @@ Every year, many developing countries put their effort to excel in world develop
 DataSets Used: World Bank Datasets : http://databank.worldbank.org/data/reports.aspx?source=world-development-indicators#
 
 In this Project, we are going to analyse the following parameters to justify for status of country on the scale of development and also propose some useful conclusions to help community aware of things to work on to boost their country growth.
-<p>
+<ol>
 Agriculture
 
 Carbon Emission
@@ -25,7 +25,7 @@ Internet Community
 
 Migrants Stock
 
-</p>
+</ol>
 
 This Project gives insights to multiple parameter, reflects relationships of different related parameter to work on to develop further and grow more. Many interesting visualizations and interactions can be framed from the above list and can be taken in consideration to analyse. Work on other parameters
 
